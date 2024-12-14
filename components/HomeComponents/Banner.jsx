@@ -19,8 +19,28 @@ const Banner = () => {
                                             <Typewriter
                                                 options={{
                                                     strings:
-                                                        ['MERN Stack Developer',
-                                                            'NexJs Developer'],
+                                                        [
+                                                            'JavaScript Developer',
+                                                            'ReactJS Developer',
+                                                            'NextJS Developer',
+                                                            'TypeScript Developer',
+                                                            'NodeJS Developer',
+                                                            'Redux Developer',
+                                                            'CSS Developer',
+                                                            'TailwindCSS Developer',
+                                                            'Next UI Developer',
+                                                            'REST API Developer',
+                                                            'MongoDB Developer',
+                                                            'MySQL Developer',
+                                                            'Git Developer',
+                                                            'GitHub Developer',
+                                                            "Flutter",
+                                                            "React-Native",
+                                                            "Python",
+                                                            "Java",
+                                                            'Figma Developer',
+                                                            'Adobe XD Developer',
+                                                        ],
                                                     autoStart: true,
                                                     loop: true,
                                                 }}

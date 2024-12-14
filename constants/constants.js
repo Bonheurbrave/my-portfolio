@@ -1,11 +1,11 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Bonheur Ndikumwenayo';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `Fullstack Web Developer | MERN Stack Developer | Mobile Apps Developer | Programmer | Blockchain Entuasiast`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'Rwanda',
+  City: 'Kigali',
+  Age: '17',
 };
 
 export const SKILLS = [
@@ -14,13 +14,25 @@ export const SKILLS = [
     level: '75%',
   },
   {
+    title: 'Blockchain ',
+    level: '90%',
+  },
+  {
+    title: 'Fullstack Web developer',
+    level: '86%',
+  },
+  {
     title: 'React Developer',
     level: '91%',
   },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
+  {
+    title: 'Mobile apps Developer',
+    level: '80%',
+  },
+  {
+    title: 'Desktop Application Developer',
+    level: '75%',
+  },
   {
     title: 'Backend Developer',
     level: '54%',
@@ -38,30 +50,29 @@ export const TECH_STACK = [
   'TypeScript',
   'NodeJS',
   'Redux',
-  'Zustand',
   'CSS',
-  'SCSS',
   'TailwindCSS',
-  'Ant Design',
-  'Material UI',
   'Next UI',
   'REST API',
   'MongoDB',
   'MySQL',
   'Git',
   'GitHub',
-  'Jira',
+  "Flutter",
+  "React-Native",
+  "Python",
+  "Java",
   'Figma',
   'Adobe XD',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'bonheurbrave1@gmail.com',
+  PHONE: '+250794082154',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/Bonheurbrave',
+  LINKEDIN: 'https://linkedin.com/in/bonheur-ndikumwenayo-41a458287',
+  TWITTER: 'https://twitter.com/Bonheurbrave',
+  
 };
